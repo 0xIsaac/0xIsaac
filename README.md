@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=0xIsaac&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true" />
+
 - 👋 Hi, I’m @0xIsaac
 - 👀 I’m interested in 📖
 - 🌱 I’m currently learning xxx
